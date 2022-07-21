@@ -3,10 +3,11 @@ Data Encryption Standard is a symmetric-key algorithm for the encryption of digi
 
 # DES Implementation
 Block size: 64 bits
+<br>
 Key size: 64 bits
 
 Implement using CPP
 
 # I/O Format
-encrypt.o/decrypt.o –i [input] –k [key]
-- Ex: encrypt.o –i 0x456 –k 0x123
+encrypt.o –i [input] –k [key]
+Ex: encrypt.o –i 0x456 –k 0x123
