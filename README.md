@@ -10,4 +10,5 @@ Implement using CPP
 
 # I/O Format
 encrypt.o –i [input] –k [key]
+<br>
 Ex: encrypt.o –i 0x456 –k 0x123
